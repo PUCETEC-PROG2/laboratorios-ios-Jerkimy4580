@@ -34,7 +34,3 @@ struct RepoItem: View {
 #Preview {
     RepoItem()
 }
-
-
-
-
